@@ -33,7 +33,7 @@ Once Minefetch is installed and active on your server, you can use it by typing 
 This command is only available to players, meaning it **CANNOT** be executed from the server console	. When executed, the plugin will run in the background and gather system information using the `neofetch` command. Afterward, it will display the information in the server chat for the person executing it.
 ## Credits and Contributions
 
-Minefetch is based on the initial idea, concept, and some code by [mlijekome](https://github.com/mlijekome). Some changes and improvements have been made to the code, including the utilization of the Streams API for reading command output and enhanced resource management with try-with-resources. Special thanks to [Yikesec](https://Yikesec.github.io) for polishing and contributing to the project.
+Minefetch is based on the initial idea, concept, and some code by [mlijekome](https://github.com/mlijekome). Some changes and improvements have been made to the code, including the utilization of the Streams API for reading command output and enhanced resource management with try-with-resources. Special thanks to [Yikesec](https://github.com/Yikesec) for polishing and contributing to the project.
 
 This project is open to contributions from the Minecraft and Spiggot/Paper community. If you have ideas, improvements, or bug fixes, feel free to contribute by opening a pull request on this [GitHub repository](https://github.com/mlijekome/minefetch).
 
