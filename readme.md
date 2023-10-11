@@ -8,7 +8,7 @@ Just like Neofetch, Minefetch provides information about your box's system, incl
 To use Minefetch, you need to follow these installation steps:
 
 1. Ensure you have a Spigot or Paper server running. (Tested on PurPur, which is Paper fork)
-2. Download the `Minefetch.jar` file from the [GitHub repository](https://github.com/mlijekome/minefetch).
+2. Download the `Minefetch.jar` file from the [GitHub repository](https://github.com/mlijekome/minefetch/releases/tag/Release).
 
 3. Place the `Minefetch.jar` file in your server's `plugins` directory.
 
