@@ -1,0 +1,8 @@
+name: UwuFetchPlugin
+main: me.mlijeko.uwufetch.Uwufetch
+version: 1.0-SNAPSHOT
+api-version: 1.16
+commands:
+  minefetch:
+    description: Fetches and displays the Neofetch command output
+    usage: /<command>
